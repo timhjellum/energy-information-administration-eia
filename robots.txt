@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eia.netlify.app/sitemap.xml
